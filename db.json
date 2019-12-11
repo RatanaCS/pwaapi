@@ -1,0 +1,24 @@
+{
+"products" : [
+{"id":1,"name":"Crane, sarus","category":"Violet"},
+{"id":2,"name":"Duiker, common","category":"Puce"},
+{"id":3,"name":"Asian elephant","category":"Fuscia"},
+{"id":4,"name":"Indian leopard","category":"Teal"},
+{"id":5,"name":"Capuchin, black-capped","category":"Pink"},
+{"id":6,"name":"Yellow baboon","category":"Crimson"},
+{"id":7,"name":"Common brushtail possum","category":"Mauv"},
+{"id":8,"name":"Otter, canadian river","category":"Yellow"},
+{"id":9,"name":"Capuchin, white-fronted","category":"Indigo"},
+{"id":10,"name":"Sheep, red","category":"Fuscia"},
+{"id":11,"name":"Common grenadier","category":"Orange"},
+{"id":12,"name":"Cormorant, great","category":"Goldenrod"},
+{"id":13,"name":"Harbor seal","category":"Mauv"},
+{"id":14,"name":"Starling, cape","category":"Blue"},
+{"id":15,"name":"Egret, cattle","category":"Orange"},
+{"id":16,"name":"Spectacled caiman","category":"Purple"},
+{"id":17,"name":"Peccary, white-lipped","category":"Indigo"},
+{"id":18,"name":"Sage hen","category":"Khaki"},
+{"id":19,"name":"Yellow-headed caracara","category":"Red"},
+{"id":20,"name":"Verreaux's sifaka","category":"Orange"}
+]
+}
